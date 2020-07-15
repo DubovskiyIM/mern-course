@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "mern1234",
+  "mongoUri": "mongodb+srv://ignat:12341234@cluster0.gk141.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
